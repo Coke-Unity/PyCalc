@@ -1,7 +1,7 @@
 import time
 print("Initializing")
 time.sleep(1)
-print("Welcome to PyCalc 1.0!")
+print("Welcome to PyCalc 1.1!")
 print("Created by Coke Unity")
 def maincalc():
     inpute = input("Commands: Update Log, Calculate, Exit; ")
