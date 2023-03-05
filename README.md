@@ -1,5 +1,5 @@
 # PyCalc
-A simple calculator made with Python.
+A simple calculator made with Python.  
 What ever Math Class throws at you, PyCalc can Do.
 
 # Notes
