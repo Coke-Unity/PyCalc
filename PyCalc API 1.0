@@ -1,1 +1,11 @@
+// This peice of software was created with the PyCalc API/Library for Python Math 
+// PyCalc 1.0 is Developed by Coke Unity
+// Visit https://www.github.com/Coke-Unity/PyCalc for more info
 
+//Basic Math
+def add(n1, n2, out)
+  pycalcAdd = int(n1)+int(n2)
+  out = pycalcAdd
+def sub(n1, n2, out)
+  pycalcSub = int(n1)-int(n2)
+  out = pycalcSub
